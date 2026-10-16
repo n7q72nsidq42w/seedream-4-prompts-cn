@@ -101,6 +101,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [seedream-4-api-cn](https://github.com/n7q72nsidq42w/seedream-4-api-cn)
+- **Same model, other languages** — 9 more language builds: Deutsch [seedream-4-api-de](https://github.com/yhkrslhp2s019k/seedream-4-api-de) · Español [seedream-4-api-es](https://github.com/yft1f3cb8wp/seedream-4-api-es) · Français [seedream-4-api-fr](https://github.com/t90p6sruvq/seedream-4-api-fr) · Relay/gateway [seedream-4-api-gateway](https://github.com/mwdzsicq7v2g8/seedream-4-api-gateway) · Bahasa [seedream-4-api-id](https://github.com/h2zpbl/seedream-4-api-id) · 日本語 `seedream-4-api-ja` · 한국어 [seedream-4-api-ko](https://github.com/ry93x5wv1d7e/seedream-4-api-ko) · Português [seedream-4-api-pt](https://github.com/sr35u/seedream-4-api-pt) · Русский [seedream-4-api-ru](https://github.com/f4oaqsu7whztd/seedream-4-api-ru)
+- **More models in this language** — [midjourney-api-cn](https://github.com/apimartycl6k972t/midjourney-api-cn) · [gemini-2-5-flash-image-preview-api-cn](https://github.com/hm-5j/gemini-2-5-flash-image-preview-api-cn) · [nano-banana-api-cn](https://github.com/mpflv/nano-banana-api-cn) · [gemini-3-1-flash-image-preview-api-cn](https://github.com/utp00/gemini-3-1-flash-image-preview-api-cn) · [nano-banana-2-api-cn](https://github.com/i3hxnu6/nano-banana-2-api-cn) · [gemini-3-pro-image-preview-api-cn](https://github.com/vd0tv42d/gemini-3-pro-image-preview-api-cn)
+- **Topic hubs** — every build of this model, all languages: [seedream-4](https://github.com/topics/seedream-4) · [seedream-4-api](https://github.com/topics/seedream-4-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
